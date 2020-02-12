@@ -13,3 +13,6 @@ And it runs with the commands:
 ./bikestation -g tripdata.csv stationdata.csv (graphical mode)
 or
 ./bikestation -t tripdata.csv stationdata.csv (textual mode)
+
+Grade:
+19/20
